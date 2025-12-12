@@ -197,21 +197,8 @@ Authorization: Bearer <token>
                    |  org_orgname2                 |
                    |  org_orgname3                 |
                    +-------------------------------+
-```
+ 
 
----
 
-# 📌 Submission Checklist (Intern Task)
-✔ Clean modular code  
-✔ Multi-tenant architecture  
-✔ JWT authentication  
-✔ README with setup instructions  
-✔ Architecture diagram  
-✔ Postman Collection (included separately)  
 
----
-
-# 👩‍💻 Author
-**Anusaya Dahikamble**  
-Backend Developer Intern — Organization Management System  
 
